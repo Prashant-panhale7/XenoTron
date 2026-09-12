@@ -37,7 +37,7 @@ XENOTRON is a cutting-edge AI training platform that empowers users to create, t
 - **Screen Capture & OCR**: Extract information from screenshots
 - **Input Simulation**: Mouse clicks, keyboard typing, and hotkeys
 
-## 🎯 Use Case: Math Problem Solving Expert
+## 🎯 Use Case:
 
 Imagine you want to create an AI that excels at solving mathematical problems:
 
